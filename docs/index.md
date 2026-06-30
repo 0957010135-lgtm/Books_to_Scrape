@@ -1,4 +1,3 @@
-# Web Scraper: Books to Scrape
 
 Minería de Datos y Descubrimiento de Conocimiento en Bases de Datos
 
